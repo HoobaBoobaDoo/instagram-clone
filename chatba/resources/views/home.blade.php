@@ -70,7 +70,8 @@
 </head>
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-white border-bottom mb-4">
-        <div class="container">
+        <div class="container d-flex align-items-center">
+            <img src="\logo\chatba-logo-icon-dark.png" alt="Chatba Logo" class="mb-3 mx-2 img-fluid" style="max-width: 30px;">
             <a class="navbar-brand" href="/">Chatba</a>
             <div class="ms-auto">
                 @auth
